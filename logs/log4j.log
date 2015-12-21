@@ -1,0 +1,624 @@
+2015-12-2016:29:50 [main] INFO  com.Analyzer.CharacterAnalyzer(line-13) 0     - test
+2015-12-2016:30:16 [main] INFO  com.Analyzer.CharacterAnalyzer(line-13) 0     - test
+2015-12-2110:40:45 [main] INFO  com.Analyzer.CharacterAnalyzer(line-19) 0     - into main
+2015-12-2110:40:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 79    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2110:40:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 86    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2110:40:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 89    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2110:40:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 90    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2110:40:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 99    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2110:40:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 99    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2110:40:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 99    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2110:40:46 [main] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 104   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2110:40:46 [main] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 482   - loaded success!
+2015-12-2110:41:32 [main] INFO  com.Analyzer.CharacterAnalyzer(line-19) 1     - into main
+2015-12-2110:41:32 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 47    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2110:41:32 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 50    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2110:41:32 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 64    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2110:41:32 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 66    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2110:43:35 [main] INFO  com.Analyzer.CharacterAnalyzer(line-19) 0     - into main
+2015-12-2110:43:35 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 67    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2110:43:35 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 98    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2110:43:35 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 104   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2110:43:35 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 105   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2110:50:55 [main] INFO  com.Analyzer.CharacterAnalyzer(line-20) 0     - into main
+2015-12-2110:51:39 [main] INFO  com.Analyzer.CharacterAnalyzer(line-20) 0     - into main
+2015-12-2110:51:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 68    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2110:51:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 71    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2110:51:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 79    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2110:51:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 80    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2110:51:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 94    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2110:51:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 94    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2110:51:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 95    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2110:51:40 [main] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 96    - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2110:51:40 [main] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 459   - loaded success!
+2015-12-2111:11:14 [main] INFO  com.Analyzer.CharacterAnalyzer(line-20) 0     - into main
+2015-12-2111:11:14 [main] INFO  com.Analyzer.CharacterAnalyzer(line-28) 6     - ���зִ�
+2015-12-2111:11:14 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 71    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2111:11:14 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 76    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2111:11:14 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 78    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2111:11:14 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 80    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2111:18:22 [main] INFO  com.Analyzer.CharacterAnalyzer(line-20) 0     - into main
+2015-12-2111:18:22 [main] INFO  com.Analyzer.CharacterAnalyzer(line-32) 6     - 进行分词
+2015-12-2111:18:22 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 43    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2111:18:22 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 55    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2111:18:22 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 57    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2111:18:22 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 59    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2111:19:33 [main] INFO  com.Analyzer.CharacterAnalyzer(line-20) 0     - into main
+2015-12-2111:19:33 [main] INFO  com.Analyzer.CharacterAnalyzer(line-32) 28    - 进行分词
+2015-12-2111:19:33 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 66    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2111:19:33 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 70    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2111:19:33 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 72    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2111:19:33 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 74    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2111:26:36 [main] INFO  com.Analyzer.CharacterAnalyzer(line-20) 0     - into main
+2015-12-2111:26:36 [main] INFO  com.Analyzer.CharacterAnalyzer(line-32) 29    - 进行分词
+2015-12-2111:26:36 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 64    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2111:26:36 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 68    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2111:26:36 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 70    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2111:26:36 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 71    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2111:27:12 [main] INFO  com.Analyzer.CharacterAnalyzer(line-20) 0     - into main
+2015-12-2111:27:12 [main] INFO  com.Analyzer.CharacterAnalyzer(line-32) 6     - 进行分词
+2015-12-2111:27:12 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 63    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2111:27:12 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 67    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2111:27:12 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 70    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2111:27:12 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 71    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2112:10:39 [main] INFO  com.Analyzer.CharacterAnalyzer(line-20) 0     - into main
+2015-12-2112:10:39 [main] INFO  com.Analyzer.CharacterAnalyzer(line-52) 6     - 去除非法字符
+2015-12-2112:10:39 [main] INFO  com.Analyzer.CharacterAnalyzer(line-28) 41    - 进行分词
+2015-12-2112:10:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 74    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2112:10:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 76    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2112:10:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 79    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2112:10:40 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 80    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2112:21:16 [main] INFO  com.Analyzer.CharacterAnalyzer(line-21) 0     - into main
+2015-12-2112:21:16 [main] INFO  com.Analyzer.CharacterAnalyzer(line-54) 8     - 去除非法字符
+2015-12-2112:21:16 [main] INFO  com.Analyzer.CharacterAnalyzer(line-30) 49    - 进行分词
+2015-12-2112:21:16 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 92    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2112:21:16 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 95    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2112:21:16 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 98    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2112:21:16 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 99    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2112:21:21 [main] INFO  com.Analyzer.CharacterAnalyzer(line-21) 0     - into main
+2015-12-2112:21:21 [main] INFO  com.Analyzer.CharacterAnalyzer(line-54) 8     - 去除非法字符
+2015-12-2112:21:51 [main] INFO  com.Analyzer.CharacterAnalyzer(line-21) 0     - into main
+2015-12-2112:21:51 [main] INFO  com.Analyzer.CharacterAnalyzer(line-54) 7     - 去除非法字符
+2015-12-2112:34:12 [main] INFO  com.Analyzer.CharacterAnalyzer(line-24) 0     - into main
+2015-12-2112:34:12 [main] INFO  com.Analyzer.CharacterAnalyzer(line-58) 8     - 去除非法字符
+2015-12-2112:34:27 [main] INFO  com.Analyzer.CharacterAnalyzer(line-34) 14576  - 进行分词
+2015-12-2112:34:27 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 14603  - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2112:34:27 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 14608  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2112:34:27 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 14612  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2112:34:27 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 14613  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2112:34:53 [main] INFO  com.Analyzer.CharacterAnalyzer(line-24) 0     - into main
+2015-12-2112:34:53 [main] INFO  com.Analyzer.CharacterAnalyzer(line-58) 8     - 去除非法字符
+2015-12-2112:34:53 [main] INFO  com.Analyzer.CharacterAnalyzer(line-34) 38    - 进行分词
+2015-12-2112:34:53 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 80    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2112:34:53 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 88    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2112:34:53 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 93    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2112:34:53 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 95    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2112:34:57 [main] INFO  com.Analyzer.CharacterAnalyzer(line-76) 3444  - 统计词频
+2015-12-2112:35:29 [main] INFO  com.Analyzer.CharacterAnalyzer(line-24) 0     - into main
+2015-12-2112:35:29 [main] INFO  com.Analyzer.CharacterAnalyzer(line-58) 11    - 去除非法字符
+2015-12-2112:35:29 [main] INFO  com.Analyzer.CharacterAnalyzer(line-34) 54    - 进行分词
+2015-12-2112:35:29 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 107   - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2112:35:29 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 114   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2112:35:29 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 120   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2112:35:29 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 122   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2112:35:49 [main] INFO  com.Analyzer.CharacterAnalyzer(line-24) 1     - into main
+2015-12-2112:35:49 [main] INFO  com.Analyzer.CharacterAnalyzer(line-58) 11    - 去除非法字符
+2015-12-2112:35:49 [main] INFO  com.Analyzer.CharacterAnalyzer(line-34) 63    - 进行分词
+2015-12-2112:35:49 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 121   - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2112:35:49 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 124   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2112:35:49 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 130   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2112:35:49 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 131   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2112:37:02 [main] INFO  com.Analyzer.CharacterAnalyzer(line-24) 0     - into main
+2015-12-2112:37:02 [main] INFO  com.Analyzer.CharacterAnalyzer(line-60) 6     - 去除非法字符
+2015-12-2112:37:44 [main] INFO  com.Analyzer.CharacterAnalyzer(line-24) 0     - into main
+2015-12-2112:37:44 [main] INFO  com.Analyzer.CharacterAnalyzer(line-60) 11    - 去除非法字符
+2015-12-2112:37:55 [main] INFO  com.Analyzer.CharacterAnalyzer(line-24) 0     - into main
+2015-12-2112:37:55 [main] INFO  com.Analyzer.CharacterAnalyzer(line-60) 11    - 去除非法字符
+2015-12-2112:38:06 [main] INFO  com.Analyzer.CharacterAnalyzer(line-24) 0     - into main
+2015-12-2112:38:06 [main] INFO  com.Analyzer.CharacterAnalyzer(line-60) 12    - 去除非法字符
+2015-12-2112:38:06 [main] INFO  com.Analyzer.CharacterAnalyzer(line-36) 52    - 进行分词
+2015-12-2112:38:06 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 137   - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2112:38:06 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 140   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2112:38:06 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 151   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2112:38:06 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 152   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2112:38:34 [main] INFO  com.Analyzer.CharacterAnalyzer(line-78) 27672  - 统计词频
+2015-12-2112:39:46 [main] INFO  com.Analyzer.CharacterAnalyzer(line-24) 0     - into main
+2015-12-2112:39:46 [main] INFO  com.Analyzer.CharacterAnalyzer(line-60) 11    - 去除非法字符
+2015-12-2112:39:46 [main] INFO  com.Analyzer.CharacterAnalyzer(line-36) 41    - 进行分词
+2015-12-2112:39:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 90    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2112:39:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 94    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2112:39:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 102   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2112:39:46 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 104   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2112:40:07 [main] INFO  com.Analyzer.CharacterAnalyzer(line-78) 21451  - 统计词频
+2015-12-2113:00:24 [main] INFO  com.Analyzer.CharacterAnalyzer(line-49) 0     - 去除非法字符
+2015-12-2113:00:24 [main] INFO  com.Analyzer.CharacterAnalyzer(line-25) 43    - 进行分词
+2015-12-2113:00:24 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 89    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2113:00:24 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 93    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2113:00:24 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 101   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2113:00:24 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 103   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2113:00:24 [main] INFO  com.Analyzer.CharacterAnalyzer(line-67) 414   - 统计词频
+2015-12-2113:01:05 [main] INFO  com.Analyzer.CharacterAnalyzer(line-49) 0     - 去除非法字符
+2015-12-2113:01:05 [main] INFO  com.Analyzer.CharacterAnalyzer(line-25) 35    - 进行分词
+2015-12-2113:01:05 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 84    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2113:01:05 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 88    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2113:01:05 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 95    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2113:01:05 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 97    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2113:01:05 [main] INFO  com.Analyzer.CharacterAnalyzer(line-67) 447   - 统计词频
+2015-12-2113:01:35 [main] INFO  com.Analyzer.CharacterAnalyzer(line-97) 29604  - 去停用词
+2015-12-2113:02:21 [main] INFO  com.Analyzer.CharacterAnalyzer(line-49) 0     - 去除非法字符
+2015-12-2113:02:21 [main] INFO  com.Analyzer.CharacterAnalyzer(line-25) 29    - 进行分词
+2015-12-2113:02:21 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 68    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2113:02:21 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 71    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2113:02:21 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 76    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2113:02:21 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 77    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2113:02:22 [main] INFO  com.Analyzer.CharacterAnalyzer(line-67) 491   - 统计词频
+2015-12-2113:02:26 [main] INFO  com.Analyzer.CharacterAnalyzer(line-97) 4366  - 去停用词
+2015-12-2113:02:26 [main] ERROR com.Analyzer.CharacterAnalyzer(line-111) 4369  -
+2015-12-2113:05:07 [main] INFO  com.Analyzer.CharacterAnalyzer(line-49) 0     - 去除非法字符
+2015-12-2113:05:07 [main] INFO  com.Analyzer.CharacterAnalyzer(line-25) 29    - 进行分词
+2015-12-2113:05:07 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 68    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2113:05:07 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 71    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2113:05:07 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 76    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2113:05:07 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 76    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2113:05:07 [main] INFO  com.Analyzer.CharacterAnalyzer(line-67) 451   - 统计词频
+2015-12-2113:05:13 [main] INFO  com.Analyzer.CharacterAnalyzer(line-97) 5829  - 去停用词
+2015-12-2113:13:17 [main] INFO  com.Analyzer.CharacterAnalyzer(line-41) 0     - 去除非法字符
+2015-12-2113:13:17 [main] INFO  com.Analyzer.CharacterAnalyzer(line-17) 31    - 进行分词
+2015-12-2113:13:17 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 73    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2113:13:17 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 75    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2113:13:17 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 80    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2113:13:17 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 81    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2113:13:17 [main] INFO  com.Analyzer.CharacterAnalyzer(line-59) 477   - 统计词频
+2015-12-2113:13:51 [main] INFO  com.Analyzer.CharacterAnalyzer(line-41) 0     - 去除非法字符
+2015-12-2113:13:51 [main] INFO  com.Analyzer.CharacterAnalyzer(line-17) 35    - 进行分词
+2015-12-2113:13:51 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 90    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2113:13:51 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 94    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2113:13:51 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 101   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2113:13:51 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 103   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2113:13:51 [main] INFO  com.Analyzer.CharacterAnalyzer(line-59) 466   - 统计词频
+2015-12-2113:14:34 [main] INFO  com.Analyzer.CharacterAnalyzer(line-41) 0     - 去除非法字符
+2015-12-2113:14:34 [main] INFO  com.Analyzer.CharacterAnalyzer(line-17) 40    - 进行分词
+2015-12-2113:14:34 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 79    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2113:14:34 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 82    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2113:14:34 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 106   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2113:14:34 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 108   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2113:14:35 [main] INFO  com.Analyzer.CharacterAnalyzer(line-59) 485   - 统计词频
+2015-12-2113:14:35 [main] INFO  com.Analyzer.CharacterAnalyzer(line-89) 491   - 去停用词
+2015-12-2114:02:37 [main] INFO  com.Analyzer.CharacterAnalyzer(line-43) 0     - 去除非法字符
+2015-12-2114:02:37 [main] INFO  com.Analyzer.CharacterAnalyzer(line-19) 31    - 进行分词
+2015-12-2114:02:37 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 68    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2114:02:37 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 70    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2114:02:37 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 72    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2114:02:37 [main] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 74    - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2114:02:37 [main] INFO  com.Analyzer.CharacterAnalyzer(line-61) 451   - 统计词频
+2015-12-2114:02:37 [main] INFO  com.Analyzer.CharacterAnalyzer(line-90) 456   - 去停用词
+2015-12-2115:23:47 [main] INFO  com.Processors.FullFlowTask(line-25) 0     - FullFlowTask初始化
+2015-12-2115:24:13 [main] INFO  com.Processors.FullFlowTask(line-25) 0     - FullFlowTask初始化
+2015-12-2115:25:01 [main] INFO  com.Processors.FullFlowTask(line-25) 0     - FullFlowTask初始化
+2015-12-2115:27:22 [main] INFO  com.Processors.FullFlowTask(line-25) 0     - FullFlowTask初始化
+2015-12-2115:27:28 [pool-1-thread-1] INFO  com.Processors.FullFlowTask(line-46) 6152  - 处理文本...
+2015-12-2115:27:29 [main] INFO  com.Processors.FullFlowTask(line-25) 6762  - FullFlowTask初始化
+2015-12-2115:27:29 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-43) 6810  - 去除非法字符
+2015-12-2115:27:31 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-19) 8291  - 进行分词
+2015-12-2115:27:31 [pool-1-thread-2] INFO  com.Processors.FullFlowTask(line-46) 8653  - 处理文本...
+2015-12-2115:27:31 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-43) 8907  - 去除非法字符
+2015-12-2115:27:31 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 8965  - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2115:27:31 [main] INFO  com.Processors.FullFlowTask(line-25) 9105  - FullFlowTask初始化
+2015-12-2115:27:32 [pool-1-thread-3] INFO  com.Processors.FullFlowTask(line-46) 9273  - 处理文本...
+2015-12-2115:27:32 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-19) 9391  - 进行分词
+2015-12-2115:27:32 [main] INFO  com.Processors.FullFlowTask(line-25) 9660  - FullFlowTask初始化
+2015-12-2115:27:32 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-43) 9414  - 去除非法字符
+2015-12-2115:27:32 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 9667  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:27:32 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 9667  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:27:32 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-19) 9701  - 进行分词
+2015-12-2115:27:32 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 9707  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:27:32 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 9898  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:27:32 [pool-1-thread-4] INFO  com.Processors.FullFlowTask(line-46) 9920  - 处理文本...
+2015-12-2115:27:32 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10089  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:27:32 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10091  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:27:32 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10091  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:27:32 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-43) 10261  - 去除非法字符
+2015-12-2115:27:32 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10263  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:27:32 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10264  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:27:32 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-19) 10265  - 进行分词
+2015-12-2115:27:33 [main] INFO  com.Processors.FullFlowTask(line-25) 10443  - FullFlowTask初始化
+2015-12-2115:27:33 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10443  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:27:33 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10444  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:27:33 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10468  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:27:33 [pool-1-thread-5] INFO  com.Processors.FullFlowTask(line-46) 10636  - 处理文本...
+2015-12-2115:27:33 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-43) 10637  - 去除非法字符
+2015-12-2115:27:33 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-19) 10775  - 进行分词
+2015-12-2115:27:33 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10775  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:27:33 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10776  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:27:33 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 10776  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:27:36 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-61) 13475  - 统计词频
+2015-12-2115:27:36 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-61) 13476  - 统计词频
+2015-12-2115:27:36 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-90) 13490  - 去停用词
+2015-12-2115:27:36 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-90) 13484  - 去停用词
+2015-12-2115:27:36 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-61) 13488  - 统计词频
+2015-12-2115:27:36 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-61) 13542  - 统计词频
+2015-12-2115:27:36 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-90) 13546  - 去停用词
+2015-12-2115:27:54 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-90) 32099  - 去停用词
+2015-12-2115:27:54 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-61) 32102  - 统计词频
+2015-12-2115:27:54 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-90) 32102  - 去停用词
+2015-12-2115:30:42 [main] INFO  com.Processors.FullFlowTask(line-24) 0     - FullFlowTask初始化
+2015-12-2115:30:42 [pool-1-thread-1] INFO  com.Processors.FullFlowTask(line-45) 26    - 处理文本...
+2015-12-2115:30:42 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-43) 28    - 去除非法字符
+2015-12-2115:30:42 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-19) 32    - 进行分词
+2015-12-2115:30:42 [main] INFO  com.Processors.FullFlowTask(line-24) 29    - FullFlowTask初始化
+2015-12-2115:30:42 [main] INFO  com.Processors.FullFlowTask(line-24) 57    - FullFlowTask初始化
+2015-12-2115:30:43 [main] INFO  com.Processors.FullFlowTask(line-24) 58    - FullFlowTask初始化
+2015-12-2115:30:43 [pool-1-thread-2] INFO  com.Processors.FullFlowTask(line-45) 61    - 处理文本...
+2015-12-2115:30:43 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-43) 62    - 去除非法字符
+2015-12-2115:30:43 [main] INFO  com.Processors.FullFlowTask(line-24) 66    - FullFlowTask初始化
+2015-12-2115:30:43 [pool-1-thread-4] INFO  com.Processors.FullFlowTask(line-45) 66    - 处理文本...
+2015-12-2115:30:43 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-43) 67    - 去除非法字符
+2015-12-2115:30:43 [pool-1-thread-3] INFO  com.Processors.FullFlowTask(line-45) 70    - 处理文本...
+2015-12-2115:30:43 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-43) 70    - 去除非法字符
+2015-12-2115:30:43 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-19) 91    - 进行分词
+2015-12-2115:30:43 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-19) 96    - 进行分词
+2015-12-2115:30:43 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 106   - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2115:30:43 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-19) 108   - 进行分词
+2015-12-2115:30:43 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 109   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:30:43 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 109   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:30:43 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 110   - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2115:30:43 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 111   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:30:43 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 111   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:30:43 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 111   - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2115:30:43 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 112   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:30:43 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 112   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:30:43 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 112   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:30:43 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 113   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:30:43 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 112   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:30:43 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 113   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:30:43 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 113   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:30:43 [pool-1-thread-5] INFO  com.Processors.FullFlowTask(line-45) 271   - 处理文本...
+2015-12-2115:30:43 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 271   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:30:43 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-43) 288   - 去除非法字符
+2015-12-2115:30:43 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-19) 347   - 进行分词
+2015-12-2115:30:43 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 348   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2115:30:43 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 348   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2115:30:43 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 348   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2115:30:43 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-61) 600   - 统计词频
+2015-12-2115:30:43 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-90) 604   - 去停用词
+2015-12-2115:30:43 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-61) 621   - 统计词频
+2015-12-2115:30:43 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-90) 624   - 去停用词
+2015-12-2115:30:45 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-61) 2195  - 统计词频
+2015-12-2115:30:45 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-90) 2197  - 去停用词
+2015-12-2115:30:45 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-61) 2289  - 统计词频
+2015-12-2115:30:45 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-90) 2289  - 去停用词
+2015-12-2115:30:45 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-61) 2293  - 统计词频
+2015-12-2115:30:45 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-90) 2295  - 去停用词
+2015-12-2117:27:20 [main] INFO  com.Processors.FullFlowTask(line-25) 0     - FullFlowTask初始化
+2015-12-2117:27:20 [pool-1-thread-1] INFO  com.Processors.FullFlowTask(line-48) 10    - 处理文本...
+2015-12-2117:27:20 [main] INFO  com.Processors.FullFlowTask(line-25) 13    - FullFlowTask初始化
+2015-12-2117:27:20 [main] INFO  com.Processors.FullFlowTask(line-25) 19    - FullFlowTask初始化
+2015-12-2117:27:20 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-53) 20    - 去除非法字符
+2015-12-2117:27:20 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-24) 22    - 进行分词
+2015-12-2117:27:20 [main] INFO  com.Processors.FullFlowTask(line-25) 41    - FullFlowTask初始化
+2015-12-2117:27:20 [main] INFO  com.Processors.FullFlowTask(line-25) 42    - FullFlowTask初始化
+2015-12-2117:27:20 [pool-1-thread-2] INFO  com.Processors.FullFlowTask(line-48) 52    - 处理文本...
+2015-12-2117:27:20 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-53) 52    - 去除非法字符
+2015-12-2117:27:20 [pool-1-thread-5] INFO  com.Processors.FullFlowTask(line-48) 62    - 处理文本...
+2015-12-2117:27:20 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-53) 63    - 去除非法字符
+2015-12-2117:27:20 [pool-1-thread-3] INFO  com.Processors.FullFlowTask(line-48) 63    - 处理文本...
+2015-12-2117:27:20 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-53) 64    - 去除非法字符
+2015-12-2117:27:20 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-24) 65    - 进行分词
+2015-12-2117:27:20 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-24) 84    - 进行分词
+2015-12-2117:27:20 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 108   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 110   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 112   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 120   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 120   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 120   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-2] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 122   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:20 [pool-1-thread-4] INFO  com.Processors.FullFlowTask(line-48) 104   - 处理文本...
+2015-12-2117:27:20 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 102   - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2117:27:20 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 102   - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2117:27:20 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 128   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 129   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 129   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 130   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 130   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 130   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-1] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 131   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:20 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-24) 90    - 进行分词
+2015-12-2117:27:20 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 145   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 145   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 146   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 146   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 147   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 147   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-3] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 147   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:20 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-53) 128   - 去除非法字符
+2015-12-2117:27:20 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 128   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 174   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 175   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 175   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 176   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 176   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-5] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 176   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:20 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-24) 205   - 进行分词
+2015-12-2117:27:20 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 206   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 206   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 206   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 207   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:20 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 207   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:20 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 207   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:20 [pool-1-thread-4] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 208   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:22 [pool-1-thread-1] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 2657  - loaded success!
+2015-12-2117:27:22 [pool-1-thread-2] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 2691  - loaded success!
+2015-12-2117:27:22 [pool-1-thread-5] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 2691  - loaded success!
+2015-12-2117:27:22 [pool-1-thread-3] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 2706  - loaded success!
+2015-12-2117:27:22 [pool-1-thread-4] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 2733  - loaded success!
+2015-12-2117:27:26 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-76) 5827  - 统计词频
+2015-12-2117:27:26 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-111) 5838  - 去停用词
+2015-12-2117:27:26 [pool-1-thread-2] INFO  com.Writer.ResultWriter(line-24) 5847  - 处理结果写入文件
+2015-12-2117:27:26 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-76) 6281  - 统计词频
+2015-12-2117:27:26 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-111) 6282  - 去停用词
+2015-12-2117:27:26 [pool-1-thread-1] INFO  com.Writer.ResultWriter(line-24) 6282  - 处理结果写入文件
+2015-12-2117:27:26 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-76) 6315  - 统计词频
+2015-12-2117:27:26 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-111) 6322  - 去停用词
+2015-12-2117:27:26 [pool-1-thread-3] INFO  com.Writer.ResultWriter(line-24) 6325  - 处理结果写入文件
+2015-12-2117:27:27 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-76) 7536  - 统计词频
+2015-12-2117:27:27 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-111) 7547  - 去停用词
+2015-12-2117:27:27 [pool-1-thread-4] INFO  com.Writer.ResultWriter(line-24) 7549  - 处理结果写入文件
+2015-12-2117:27:27 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-76) 7598  - 统计词频
+2015-12-2117:27:27 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-111) 7599  - 去停用词
+2015-12-2117:27:27 [pool-1-thread-5] INFO  com.Writer.ResultWriter(line-24) 7599  - 处理结果写入文件
+2015-12-2117:27:36 [Thread-0] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213500  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:36 [Thread-0] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213500  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:36 [Thread-0] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213501  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:36 [Thread-0] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7213501  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:36 [Thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213539  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:36 [Thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213540  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:36 [Thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213540  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:36 [Thread-1] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7213540  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:36 [Thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213642  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:36 [Thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213644  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:36 [Thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213644  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:36 [Thread-4] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7213644  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:36 [Thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213643  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:36 [Thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213708  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:36 [Thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213709  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:36 [Thread-3] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7213709  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:36 [Thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213705  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:27:36 [Thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213721  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:27:36 [Thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7213721  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:27:36 [Thread-2] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7213721  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:27:36 [Thread-0] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7213887  - loaded success!
+2015-12-2117:27:36 [Thread-4] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7213887  - loaded success!
+2015-12-2117:27:36 [Thread-1] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7213900  - loaded success!
+2015-12-2117:27:38 [Thread-3] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7215808  - loaded success!
+2015-12-2117:27:39 [Thread-2] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7216568  - loaded success!
+2015-12-2117:27:43 [Thread-1] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7220355  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:27:43 [Thread-1] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7220356  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:27:43 [Thread-4] ERROR net.paoding.analysis.dictionary.support.detection.Detector(line-119) 7220582  - 
+java.io.FileNotFoundException: Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode\x-unit.dic.compiled (拒绝访问。)
+	at java.io.FileOutputStream.open(Native Method)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:171)
+	at net.paoding.analysis.analyzer.impl.MostWordsModeDictionariesCompiler.sortCompile(MostWordsModeDictionariesCompiler.java:140)
+	at net.paoding.analysis.analyzer.impl.MostWordsModeDictionariesCompiler.compile(MostWordsModeDictionariesCompiler.java:80)
+	at net.paoding.analysis.knife.PaodingMaker$1.run(PaodingMaker.java:392)
+	at net.paoding.analysis.knife.PaodingMaker$1$1.on(PaodingMaker.java:413)
+	at net.paoding.analysis.dictionary.support.detection.Detector.forceDetecting(Detector.java:114)
+	at net.paoding.analysis.dictionary.support.detection.Detector.run(Detector.java:105)
+	at java.lang.Thread.run(Thread.java:745)
+2015-12-2117:27:43 [Thread-0] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7220694  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:27:43 [Thread-0] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7220694  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:27:43 [Thread-3] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7220711  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:27:43 [Thread-3] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7220711  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:27:43 [Thread-2] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7221167  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:27:43 [Thread-2] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7221168  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:27:44 [Thread-0] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7021930  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:27:44 [Thread-0] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7021930  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:27:44 [Thread-1] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7021961  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:27:44 [Thread-1] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7021961  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:27:45 [Thread-2] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7022287  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:27:45 [Thread-2] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7022287  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:27:46 [Thread-4] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7023751  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:27:46 [Thread-4] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7023751  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:27:46 [Thread-3] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7023757  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:27:46 [Thread-3] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7023758  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:26 [Thread-0] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 65939  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:26 [Thread-0] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 65940  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:26 [Thread-0] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 65940  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:26 [Thread-0] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 65940  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:26 [Thread-0] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 66011  - loaded success!
+2015-12-2117:28:26 [Thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 66286  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:26 [Thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 66292  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:26 [Thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 66292  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:26 [Thread-1] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 66292  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:26 [Thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 66310  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:26 [Thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 66310  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:26 [Thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 66310  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:26 [Thread-2] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 66310  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:26 [Thread-1] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 66499  - loaded success!
+2015-12-2117:28:26 [Thread-2] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 66526  - loaded success!
+2015-12-2117:28:27 [Thread-0] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 66943  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:27 [Thread-0] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 66944  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:27 [Thread-1] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 67526  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:27 [Thread-1] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 67526  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:27 [Thread-2] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 67586  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:27 [Thread-2] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 67586  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:27 [Thread-3] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 67588  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:27 [Thread-3] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 67588  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:27 [Thread-4] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 67629  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:27 [Thread-4] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 67629  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:43 [Thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7280358  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:43 [Thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7280358  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:43 [Thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7280358  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:43 [Thread-5] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7280358  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:43 [Thread-5] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7280437  - loaded success!
+2015-12-2117:28:43 [Thread-6] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7280695  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:43 [Thread-6] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7280695  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:43 [Thread-6] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7280695  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:43 [Thread-6] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7280695  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:43 [Thread-7] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7280712  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:43 [Thread-7] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7280720  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:43 [Thread-7] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7280720  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:43 [Thread-7] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7280721  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:43 [Thread-6] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7281074  - loaded success!
+2015-12-2117:28:43 [Thread-7] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7281100  - loaded success!
+2015-12-2117:28:43 [Thread-8] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7281169  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:43 [Thread-8] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7281170  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:43 [Thread-8] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7281170  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:43 [Thread-8] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7281171  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:44 [Thread-8] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7281312  - loaded success!
+2015-12-2117:28:44 [Thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7081948  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:44 [Thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7081948  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:44 [Thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7081948  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:44 [Thread-5] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7081949  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:44 [Thread-6] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7082017  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:44 [Thread-6] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7082017  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:44 [Thread-6] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7082018  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:44 [Thread-6] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7082018  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:45 [Thread-5] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7082286  - loaded success!
+2015-12-2117:28:45 [Thread-7] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7082341  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:45 [Thread-7] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7082341  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:45 [Thread-7] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7082341  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:45 [Thread-7] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7082342  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:45 [Thread-6] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7082583  - loaded success!
+2015-12-2117:28:46 [Thread-7] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7083323  - loaded success!
+2015-12-2117:28:47 [Thread-8] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7084223  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:47 [Thread-8] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7084225  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:47 [Thread-8] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7084225  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:47 [Thread-8] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7084225  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:47 [Thread-9] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7084266  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:28:47 [Thread-9] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7084328  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:28:47 [Thread-9] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7084328  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:28:47 [Thread-9] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7084328  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:28:47 [Thread-8] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7084428  - loaded success!
+2015-12-2117:28:47 [Thread-9] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7084936  - loaded success!
+2015-12-2117:28:48 [Thread-5] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7285843  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:48 [Thread-5] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7285843  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:50 [Thread-6] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7287498  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:50 [Thread-6] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7287499  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:51 [Thread-8] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7288417  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:51 [Thread-8] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7288417  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:51 [Thread-7] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7288716  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:51 [Thread-7] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7288716  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:52 [Thread-6] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7089448  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:52 [Thread-6] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7089448  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:53 [Thread-5] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7090076  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:53 [Thread-5] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7090076  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:53 [Thread-8] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7090084  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:53 [Thread-8] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7090085  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:53 [Thread-9] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7090182  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:53 [Thread-9] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7090182  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:28:53 [Thread-7] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7090196  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:28:53 [Thread-7] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7090196  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:29:48 [Thread-9] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7345912  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:29:48 [Thread-9] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7345912  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:29:50 [Thread-10] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7347568  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:29:50 [Thread-10] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7347569  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:29:51 [Thread-11] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7348466  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:29:51 [Thread-11] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7348467  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:29:51 [Thread-12] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7348749  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:29:51 [Thread-12] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7348749  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:29:52 [Thread-10] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7149677  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:29:52 [Thread-10] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7149677  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:29:53 [Thread-11] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7150114  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:29:53 [Thread-11] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7150114  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:29:53 [Thread-12] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7150123  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:29:53 [Thread-12] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7150124  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:31:39 [main] INFO  com.Processors.FullFlowTask(line-25) 0     - FullFlowTask初始化
+2015-12-2117:31:39 [main] INFO  com.Processors.FullFlowTask(line-25) 12    - FullFlowTask初始化
+2015-12-2117:31:39 [main] INFO  com.Processors.FullFlowTask(line-25) 18    - FullFlowTask初始化
+2015-12-2117:31:39 [main] INFO  com.Processors.FullFlowTask(line-25) 20    - FullFlowTask初始化
+2015-12-2117:31:39 [main] INFO  com.Processors.FullFlowTask(line-25) 22    - FullFlowTask初始化
+2015-12-2117:31:39 [pool-1-thread-2] INFO  com.Processors.FullFlowTask(line-48) 23    - 处理文本...
+2015-12-2117:31:39 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-53) 24    - 去除非法字符
+2015-12-2117:31:39 [pool-1-thread-3] INFO  com.Processors.FullFlowTask(line-48) 38    - 处理文本...
+2015-12-2117:31:39 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-53) 38    - 去除非法字符
+2015-12-2117:31:39 [pool-1-thread-1] INFO  com.Processors.FullFlowTask(line-48) 39    - 处理文本...
+2015-12-2117:31:39 [pool-1-thread-5] INFO  com.Processors.FullFlowTask(line-48) 39    - 处理文本...
+2015-12-2117:31:39 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-53) 39    - 去除非法字符
+2015-12-2117:31:39 [pool-1-thread-4] INFO  com.Processors.FullFlowTask(line-48) 39    - 处理文本...
+2015-12-2117:31:39 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-53) 40    - 去除非法字符
+2015-12-2117:31:39 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-24) 42    - 进行分词
+2015-12-2117:31:39 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-24) 55    - 进行分词
+2015-12-2117:31:39 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-24) 62    - 进行分词
+2015-12-2117:31:39 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-53) 39    - 去除非法字符
+2015-12-2117:31:39 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-24) 64    - 进行分词
+2015-12-2117:31:39 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-24) 71    - 进行分词
+2015-12-2117:31:39 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-136) 93    - config paoding analysis from: Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analysis-default.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-analyzer.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-dic-home.properties;Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\paoding-dic-names.properties;Q:\JavaWorkSpace\CharacterAnalyzer\out\production\CharacterAnalyzer\paoding-knives.properties;Q:\JavaWorkSpace\CharacterAnalyzer\file:\Q:\JavaWorkSpace\CharacterAnalyzer\libs\paoding-analysis.jar!\paoding-knives-user.properties
+2015-12-2117:31:39 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 96    - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 98    - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 100   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 108   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 109   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-3] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 109   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-3] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 111   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:31:39 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 124   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 124   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 124   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 125   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 125   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 126   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-1] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 126   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-1] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 126   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:31:39 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 127   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 128   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 217   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 124   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 124   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 322   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 323   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 323   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-2] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 324   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-2] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 324   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:31:39 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 321   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 331   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-4] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 331   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-4] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 331   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:31:39 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 321   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 398   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 399   - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:39 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 400   - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:39 [pool-1-thread-5] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 400   - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:39 [pool-1-thread-5] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 400   - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:31:41 [pool-1-thread-2] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 2388  - loaded success!
+2015-12-2117:31:41 [pool-1-thread-1] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 2421  - loaded success!
+2015-12-2117:31:41 [pool-1-thread-3] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 2426  - loaded success!
+2015-12-2117:31:41 [pool-1-thread-5] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 2445  - loaded success!
+2015-12-2117:31:42 [pool-1-thread-4] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 3244  - loaded success!
+2015-12-2117:31:44 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-76) 5394  - 统计词频
+2015-12-2117:31:44 [pool-1-thread-3] INFO  com.Analyzer.CharacterAnalyzer(line-111) 5400  - 去停用词
+2015-12-2117:31:44 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-76) 5417  - 统计词频
+2015-12-2117:31:44 [pool-1-thread-3] INFO  com.Writer.ResultWriter(line-24) 5423  - 处理结果写入文件
+2015-12-2117:31:44 [pool-1-thread-2] INFO  com.Analyzer.CharacterAnalyzer(line-111) 5427  - 去停用词
+2015-12-2117:31:44 [pool-1-thread-2] INFO  com.Writer.ResultWriter(line-24) 5432  - 处理结果写入文件
+2015-12-2117:31:44 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-76) 5492  - 统计词频
+2015-12-2117:31:44 [pool-1-thread-4] INFO  com.Analyzer.CharacterAnalyzer(line-111) 5495  - 去停用词
+2015-12-2117:31:44 [pool-1-thread-4] INFO  com.Writer.ResultWriter(line-24) 5498  - 处理结果写入文件
+2015-12-2117:31:45 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-76) 5565  - 统计词频
+2015-12-2117:31:45 [pool-1-thread-5] INFO  com.Analyzer.CharacterAnalyzer(line-111) 5565  - 去停用词
+2015-12-2117:31:45 [pool-1-thread-5] INFO  com.Writer.ResultWriter(line-24) 5566  - 处理结果写入文件
+2015-12-2117:31:45 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-76) 5810  - 统计词频
+2015-12-2117:31:45 [pool-1-thread-1] INFO  com.Analyzer.CharacterAnalyzer(line-111) 5810  - 去停用词
+2015-12-2117:31:45 [pool-1-thread-1] INFO  com.Writer.ResultWriter(line-24) 5810  - 处理结果写入文件
+2015-12-2117:31:48 [Thread-13] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7465913  - add knike: net.paoding.analysis.knife.CJKKnife
+2015-12-2117:31:48 [Thread-13] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7465914  - add knike: net.paoding.analysis.knife.LetterKnife
+2015-12-2117:31:48 [Thread-13] INFO  net.paoding.analysis.knife.PaodingMaker(line-454) 7465914  - add knike: net.paoding.analysis.knife.NumberKnife
+2015-12-2117:31:48 [Thread-13] INFO  net.paoding.analysis.knife.FileDictionaries(line-417) 7465914  - loading dictionaries from Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic
+2015-12-2117:31:48 [Thread-13] INFO  net.paoding.analysis.knife.FileDictionaries(line-425) 7465989  - loaded success!
+2015-12-2117:31:49 [Thread-13] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7466787  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:31:49 [Thread-13] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7466787  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:31:50 [Thread-14] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7467608  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:31:50 [Thread-14] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7467608  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:31:51 [Thread-15] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7468690  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:31:51 [Thread-15] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7468691  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:31:51 [Thread-16] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7468781  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:31:51 [Thread-16] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7468782  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:31:52 [Thread-15] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7269709  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:31:52 [Thread-15] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7269709  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:31:53 [Thread-16] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7270554  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:31:53 [Thread-16] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7270555  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:31:53 [Thread-17] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7270557  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:31:53 [Thread-17] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7270557  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:31:53 [Thread-13] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7270581  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:31:53 [Thread-13] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7270582  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]
+2015-12-2117:31:53 [Thread-14] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-115) 7270583  - found differen for Q:\JavaWorkSpace\CharacterAnalyzer\.\Resources\dic\.compiled\most-words-mode
+2015-12-2117:31:53 [Thread-14] INFO  net.paoding.analysis.dictionary.support.detection.Detector(line-116) 7270583  - modified=[.metadata, vocabulary.dic.compiled, x-confucian-family-name.dic.compiled, x-for-combinatorics.dic.compiled, x-noise-charactor.dic.compiled, x-noise-word.dic.compiled, x-unit.dic.compiled];newcome=[];deleted=[]

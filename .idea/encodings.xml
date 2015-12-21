@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/libs/commons-logging.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/junit.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/lucene-analyzers-2.2.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/lucene-core-2.2.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/lucene-highlighter-2.2.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/paoding-analysis.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/Analyzer/CharacterAnalyzer.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
